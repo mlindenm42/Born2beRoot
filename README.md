@@ -1,2 +1,2 @@
 # Born2beRoot
-Summary: This document is a System Administration related exercise.
+This document is a System Administration related exercise.
